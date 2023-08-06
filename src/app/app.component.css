@@ -1,0 +1,16 @@
+.spacer {
+  flex: 1 1 auto;
+}
+
+.fullWidth {
+  width: 100%;
+}
+
+.addButton {
+  margin: 5px;
+}
+
+.toggleContainer {
+  margin: 15px;
+  display: flex;
+}
